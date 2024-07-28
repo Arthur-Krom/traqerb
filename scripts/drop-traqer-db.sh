@@ -1,0 +1,1 @@
+mongosh --evail "db.getSiblingDB('traqer').dropDatabase()"
